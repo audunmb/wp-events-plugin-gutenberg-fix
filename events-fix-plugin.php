@@ -4,7 +4,7 @@
  * Plugin URI: https://github.com/audunmb/wp-events-plugin-gutenberg-fix
  * Description: Fix display of event categories and tags when using the Gutenberg editor to edit events in the Events Manager plugin.
  * Author: audun
- * Version: 0.3
+ * Version: 0.4
  * License: GPLv3
  * License URI: https://www.gnu.org/licenses/gpl-3.0.html
  */
